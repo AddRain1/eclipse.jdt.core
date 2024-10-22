@@ -27,7 +27,7 @@ SPDX-License-Identifier: EPL-2.0
 ## Source Code
 
 The project maintains the following source code repositories:
-
+yes
 * https://github.com/eclipse-jdt/eclipse.jdt.core.binaries
 * https://github.com/eclipse-jdt/eclipse.jdt.core.git
 * https://github.com/eclipse-jdt/eclipse.jdt.debug.git
